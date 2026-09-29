@@ -1,0 +1,6 @@
+interface:
+  display_name: "CEX BTC流动性监控"
+  short_description: "快速监控四所BTC永续盘口深度、流动性和静态滑点"
+  default_prompt: "Use $cex-btc-liquidity-monitor to monitor BTC perpetual liquidity for 1, 3, and 5 minutes and generate a Chinese Word report."
+policy:
+  allow_implicit_invocation: true
